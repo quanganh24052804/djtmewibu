@@ -1,6 +1,9 @@
+.nen{
+    background-color: #eec980;;
+}
 .img1{
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
     margin-left: 50px;
     margin-bottom: 10px;
 
@@ -163,9 +166,8 @@ form .g-inp{
  background-color: #cccccc;
 }
     .gt3{
-        background-image: linear-gradient(white, #cccccc,white );
+        background-image: linear-gradient(#db2f2f, #cccccc,#db2f2f );
  background-color: #cccccc;
- color: red;
     }
 .h1 {
     font-size: 5rem;
@@ -214,3 +216,51 @@ form .g-inp{
     align-self: center;
 }
 
+.contact-maps{
+    align-content: center;
+}
+
+.btn-blues, #btnnewreview, .nd-button {
+    position: relative;
+    display: inline-block;
+    padding: 15px 28px;
+    line-height: normal;
+    border: 1px solid #000;
+    text-transform: uppercase;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+}
+.button1{
+    margin-left: 30px;
+}
+/*-----------------------------------------------------------------cart*/
+.cart{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+.cart h2{
+    margin-bottom: 20px;
+}
+.cart table{
+    width: 100%;
+}
+.cart table thead tr th:first-child{
+    text-align: left;
+}
+.cart table tr td {
+    border-bottom: 1px solid #ddd;
+    padding: 12px 0;
+}
+.cart table thead tr th:last-child{
+    text-align: right;
+}
+.cart table tbody tr td:last-child{
+    text-align: right
+}
