@@ -264,3 +264,20 @@ form .g-inp{
 .cart table tbody tr td:last-child{
     text-align: right
 }
+/*-----------------------------------------------------------------dky*/
+.tatca{
+    text-align: center;
+    margin-left: 40px;
+}
+.view-pub {
+    display: inline-block;
+    background: #a36209;
+    display: inline-block;
+    padding: 7px 20px;
+    color: #fff;
+    border: 1px solid #a36209;
+    border-radius: 4px;
+}
+.center {
+    text-align: center;
+}
